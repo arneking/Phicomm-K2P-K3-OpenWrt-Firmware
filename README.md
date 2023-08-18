@@ -1,3 +1,6 @@
+forked from yangxu52/Phicomm-K2P-K3-OpenWrt-Firmware
+自用修改,请不要下载我编译的固件,有问题要不要提交给我...我啥也不会
+
 # **K3-OpenWrt-Firmware-Action** [Please Star⚝ ↗]
 Phicomm K3 OpenWrt Firmware CI by Github Actions  
 [![LICENSE](https://img.shields.io/badge/license-apache--2.0-green.svg?style=flat-square&label=LICENSE)](https://github.com/yangxu52/K3-OpenWrt-Firmware-Action/blob/main/LICENSE)&nbsp;
